@@ -1,0 +1,7 @@
+.table-div {
+	height: 200px;
+	overflow: auto;
+	~padding: 50px;
+	margin: 50px;
+	background-color: #aaa;
+}
